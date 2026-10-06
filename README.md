@@ -50,5 +50,5 @@ An intelligent loan management, payment monitoring, and risk assessment system w
 
 ## 📫 Contact
 
-- GitHub: @YOUR_USERNAME
-- Email: YOUR_EMAIL
+- GitHub: @NoV1al
+- Email: Vincexxd.allen@gmail.com
