@@ -1,16 +1,35 @@
-## Hi there 👋
+╭────────────────────────────────────────────╮
+│                                            │
+│             HI, I'M VINCE 👋               │
+│                                            │
+│       IT GRADUATE • DEVELOPER              │
+│       ENGLISH INSTRUCTOR                   │
+│                                            │
+╰────────────────────────────────────────────╯
 
-<!--
-**NoV1al/NoV1al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ABOUT ME
+────────────────────────────────────────────
 
-Here are some ideas to get you started:
+I'm an IT graduate interested in building
+useful software and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TECHNOLOGIES
+────────────────────────────────────────────
+
+HTML • CSS • JavaScript • Python
+Django • PostgreSQL • Git
+
+FEATURED PROJECT
+────────────────────────────────────────────
+
+LOANMOTO
+Loan Management & Risk Assessment System
+
+EXPERIENCE
+────────────────────────────────────────────
+
+English Instructor
+4+ years of online English teaching
+
+CONTACT
+────────────────────────────────────────────
